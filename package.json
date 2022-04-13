@@ -1,0 +1,14 @@
+{
+  "name": "interactive-message-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:akira-toriyama/interactive-message-demo.git",
+  "author": "akira-toriyama <92862731+akira-toriyama@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@bird-studio/interactive-message": "2.0.0"
+  },
+  "scripts": {
+    "prepare": "git config --local core.hooksPath .githooks"
+  }
+}
