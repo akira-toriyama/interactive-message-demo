@@ -6,7 +6,7 @@
   "author": "akira-toriyama <92862731+akira-toriyama@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
-    "@bird-studio/interactive-message": "2.0.0"
+    "@bird-studio/interactive-message": "2.0.3"
   },
   "scripts": {
     "prepare": "git config --local core.hooksPath .githooks"
